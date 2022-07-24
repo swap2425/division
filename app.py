@@ -10,7 +10,7 @@ This app divides two numbers
 
 st.header('User Input Parameters')
 
-num1=st.number_input("Enter onr number")
+num1=st.number_input("Enter one number")
 num2=st.number_input("Enter another number")
 
 res=num1/num2
