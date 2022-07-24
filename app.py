@@ -18,3 +18,5 @@ res=num1/num2
 st.subheader('Answer')
 
 st.write(res)
+
+heroku logs --tail
